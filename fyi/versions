@@ -1,0 +1,94 @@
+File: semgrep-grammars/src/tree-sitter-gosu/LICENSE
+Git repo name: tree-sitter-gosu
+Latest commit in repo: ba3f0466a01d821e32a1c1d9c4790a75fdb2e074
+Last change in file:
+  commit c93aea03dc4190148cbacae8ea837f518c590427
+  Author: Puneeth Chaganti <punchagan@muse-amuse.in>
+  Date:   Wed Sep 10 23:21:47 2025 +0530
+  
+      Dummy LICENSE for release script in ocaml-tree-sitter-semgrep
+---
+File: semgrep-grammars/src/tree-sitter-gosu/grammar.js
+Git repo name: tree-sitter-gosu
+Latest commit in repo: ba3f0466a01d821e32a1c1d9c4790a75fdb2e074
+Last change in file:
+  commit ba3f0466a01d821e32a1c1d9c4790a75fdb2e074
+  Author: Puneeth Chaganti <punchagan@muse-amuse.in>
+  Date:   Thu Sep 18 20:17:38 2025 +0530
+  
+      Support functions with multiple parameters
+---
+File: semgrep-grammars/src/semgrep-gosu/grammar.js
+Git repo name: ocaml-tree-sitter-semgrep
+Latest commit in repo: 4ba687a58a4df47069e73a16fbf3d72412df94cb
+Last change in file:
+  commit 4ba687a58a4df47069e73a16fbf3d72412df94cb
+  gpg: Signature made Wed 24 Sep 2025 03:10:50 PM PDT
+  gpg:                using RSA key B5690EEEBB952194
+  gpg: Good signature from "GitHub <noreply@github.com>" [full]
+  Author: Shon Feder <shon.feder@gmail.com>
+  Date:   Wed Sep 24 22:10:50 2025 +0000
+  
+      Minimal Gosu grammar (#547)
+      
+      * ./add-simple-lang gosu
+      
+      * Add basic hello world Gosu program test
+      
+      * Add projects and extensions for gosu lang
+      
+      * Add gosu as supported and stat language
+      
+      * wip: tweak release to allow working with new langs
+      
+      * Update tree-sitter-gosu to include LICENSE
+      
+      * Add gosu as a pro lang
+      
+      * Allow specifying GITHUB_ORG for repos
+      
+      * upgrade to latest tree-sitter-gosu
+      
+      * Revert to a much simpler tree-sitter grammar
+      
+      * Even simpler grammar
+      
+      * Improve representation of fieldDefn
+      
+      * Allow using ellipsis as classMembers
+      
+      * Update gosu tree-sitter parser
+      
+      * Allow using ellipsis in function statements
+      
+      * Add function definition to gosu ok test
+      
+      * Allow more kinds of top level statements
+      
+      * Update grammar to allow ids in expressions
+      
+      * gosu: Allow ellipsis in expressions (for rules)
+      
+      * gosu: Add additive operators and expressions
+      
+      * gosu: Add `new` expressions
+      
+      * Allow elipses to replace usesStatement
+      
+      * New expressions can be statements
+      
+      * Fix ellipsis in uses statement
+      
+      * gosu: indirect field access is expression
+      
+      * Add support for function definitions with params
+      
+      * Allow ellipsis in parameter declaration
+      
+      * Enable gosu tests in Circle CI
+      
+      ---------
+      
+      Co-authored-by: Puneeth Chaganti <punchagan@muse-amuse.in>
+      Co-authored-by: Stephen Sherratt <stephen@sherra.tt>
+---
