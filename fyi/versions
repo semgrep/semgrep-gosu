@@ -1,16 +1,16 @@
 File: semgrep-grammars/src/tree-sitter-gosu/LICENSE
 Git repo name: tree-sitter-gosu
-Latest commit in repo: ba3f0466a01d821e32a1c1d9c4790a75fdb2e074
+Latest commit in repo: d0d4867b2941ceb6862984110ebe6c1f930aa107
 Last change in file:
-  commit c93aea03dc4190148cbacae8ea837f518c590427
+  commit d0d4867b2941ceb6862984110ebe6c1f930aa107
   Author: Puneeth Chaganti <punchagan@muse-amuse.in>
-  Date:   Wed Sep 10 23:21:47 2025 +0530
+  Date:   Wed Sep 24 20:35:41 2025 +0530
   
-      Dummy LICENSE for release script in ocaml-tree-sitter-semgrep
+      Add MIT license
 ---
 File: semgrep-grammars/src/tree-sitter-gosu/grammar.js
 Git repo name: tree-sitter-gosu
-Latest commit in repo: ba3f0466a01d821e32a1c1d9c4790a75fdb2e074
+Latest commit in repo: d0d4867b2941ceb6862984110ebe6c1f930aa107
 Last change in file:
   commit ba3f0466a01d821e32a1c1d9c4790a75fdb2e074
   Author: Puneeth Chaganti <punchagan@muse-amuse.in>
@@ -20,12 +20,9 @@ Last change in file:
 ---
 File: semgrep-grammars/src/semgrep-gosu/grammar.js
 Git repo name: ocaml-tree-sitter-semgrep
-Latest commit in repo: 4ba687a58a4df47069e73a16fbf3d72412df94cb
+Latest commit in repo: f52c69b03af3c045a573cf97f229edced0afc1a2
 Last change in file:
   commit 4ba687a58a4df47069e73a16fbf3d72412df94cb
-  gpg: Signature made Wed 24 Sep 2025 03:10:50 PM PDT
-  gpg:                using RSA key B5690EEEBB952194
-  gpg: Good signature from "GitHub <noreply@github.com>" [full]
   Author: Shon Feder <shon.feder@gmail.com>
   Date:   Wed Sep 24 22:10:50 2025 +0000
   
